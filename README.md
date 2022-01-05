@@ -12,7 +12,21 @@
 
 # 언어 및 개발환경
 
-## 
+## 언어
+
+* Python 진행중...
+
+## 개발환경
+
+* Visual studio
+
+## 운영체제
+
+* Windows
+
+## 형상관리
+
+* Github
 
 <!---
 Kimwonjoon/Kimwonjoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
