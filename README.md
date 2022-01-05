@@ -1,5 +1,7 @@
 #소개
-* Name : 
+* Name : kimwonjoon
+
+
 ![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 
 
