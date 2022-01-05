@@ -4,11 +4,11 @@
 
 ![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 
-'''
+```
 진행중:
 - 복학 및 미래를 위한 Python 공부중
 - 토익 공부중
-'''
+```
 
 
 
