@@ -1,4 +1,4 @@
-![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true&theme=cobalt)
+![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 
 - 👋 Hi, I’m @Kimwonjoon
 - 👀 I’m interested in ...
