@@ -17,7 +17,7 @@
 
 ## Tools
 
-* Visual studio
+<img src="https://img.shields.io/badge/Visual-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 * Jupyter notebook
 * R studio
 
