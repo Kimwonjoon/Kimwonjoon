@@ -6,8 +6,7 @@
 
 ```
 진행중:
-- 복학 및 미래를 위한 Python 공부중
-- 토익 공부중
+- 
 ```
 
 # 언어 및 개발환경
@@ -19,14 +18,12 @@
 ## 개발환경
 
 * Visual studio
+* Jupyter notebook
+* R studio
 
 ## 운영체제
 
 * Windows
-
-## 형상관리
-
-* Github
 
 # 진행중인 프로젝트
 
