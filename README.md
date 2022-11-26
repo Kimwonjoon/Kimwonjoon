@@ -13,8 +13,8 @@
 
 ## Studying
 
-* <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>Python
-* R
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+R
 
 ## Tools
 
