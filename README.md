@@ -11,20 +11,16 @@
 
 # 언어 및 개발환경
 
-## 언어
+## Studying
 
 * Python
 * R
 
-## 개발환경
+## Tools
 
 * Visual studio
 * Jupyter notebook
 * R studio
-
-## 운영체제
-
-* Windows
 
 <!---
 Kimwonjoon/Kimwonjoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
