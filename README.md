@@ -1,6 +1,7 @@
 # 소개
 * Name : kimwonjoon
 * Email : <kimpass189@gmail.com>
+* Blog : https://blog.naver.com/joony_0507
 
 ![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 
