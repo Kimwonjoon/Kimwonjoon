@@ -1,4 +1,4 @@
-![image](https://github.com/Kimwonjoon/Kimwonjoon/assets/96778880/349cb2d8-787c-4094-839d-96d9d1f4d087)# 소개
+# 소개
 * Name : kimwonjoon
 * Email : <kimpass189@gmail.com>
 * Blog : https://blog.naver.com/joony_0507
