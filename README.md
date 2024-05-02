@@ -1,8 +1,5 @@
 # 소개 Introduction
 무슨무슨 개발자가 되고싶고 어떠한 분야에 관심이 있는 김원준입니다.
-* Name : kimwonjoon
-
-
 
 # 언어 및 개발환경
 
