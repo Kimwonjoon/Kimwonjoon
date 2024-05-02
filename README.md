@@ -2,7 +2,7 @@
 무슨무슨 개발자가 되고싶고 어떠한 분야에 관심이 있는 김원준입니다.
 * Name : kimwonjoon
 
-![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
+
 
 # 언어 및 개발환경
 
@@ -23,6 +23,7 @@
 * Blog : https://blog.naver.com/joony_0507
 * Portfolio : https://www.notion.so/Portfolio-3bbd9d8277b44a8284c3ccfa7b192a83?pvs=4 -ing
 
+![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 <!---
 Kimwonjoon/Kimwonjoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
