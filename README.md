@@ -1,4 +1,4 @@
-# 소개
+![image](https://github.com/Kimwonjoon/Kimwonjoon/assets/96778880/349cb2d8-787c-4094-839d-96d9d1f4d087)# 소개
 * Name : kimwonjoon
 * Email : <kimpass189@gmail.com>
 * Blog : https://blog.naver.com/joony_0507
@@ -18,7 +18,7 @@
 
 ## Knowledgeable
 
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 
 ## Tools
 
