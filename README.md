@@ -2,6 +2,7 @@
 * Name : kimwonjoon
 * Email : <kimpass189@gmail.com>
 * Blog : https://blog.naver.com/joony_0507
+* Portfolio : https://www.notion.so/Portfolio-3bbd9d8277b44a8284c3ccfa7b192a83?pvs=4 -ing
 
 ![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 
