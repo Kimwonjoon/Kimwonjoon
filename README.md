@@ -6,16 +6,17 @@
 
 # 경험 Experience
 
-* **2024년 안양시 공공·빅데이터 활용 및 분석 공모전 (개발, 기획) 24.04.08 ~ 24.05.10**  
+* **[2024년 안양시 공공·빅데이터 활용 및 분석 공모전](https://github.com/Kimwonjoon/Capstone_swu) (개발, 기획) 24.04.08 ~ 24.05.10**  
   안양시 공공데이터를 이용한 안양시 인구감소 요인 파악 및 해결 방안 제안  
+  [streamlit 웹 구현](https://github.com/Kimwonjoon/streamlit_practice) / [안양시 인구 웹](https://anyang.streamlit.app/)
 
-* **제3회 강서구 빅데이터 분석 아이디어 공모전 (개발, 기획) 24.03.04 ~ 24.04.12**  
+* **[제3회 강서구 빅데이터 분석 아이디어 공모전](https://github.com/Kimwonjoon/Rider_shelter_location_recommendation) (개발, 기획) 24.03.04 ~ 24.04.12**  
   상권 분석을 통한 배달 플랫폼 노동자 쉼터 위치 제안  
 
 * **2024 세종 자율주행 시범운행지구 데이터 활용 AI 경진대회 (개발) 24.02.05 ~ 24.02.22**  
   도로 cctv 화면을 통한 무단횡단자 분류
 
-* **미래와소프트웨어 빅데이터 활용 미래사회문제 해결 아이디어 해커톤 (개발, 기획) 23.11.20 ~ 24.01.28**  
+* **[미래와소프트웨어 빅데이터 활용 미래사회문제 해결 아이디어 해커톤](https://github.com/Kimwonjoon/korea_Earthquake_predict_prophet) (개발, 기획) 23.11.20 ~ 24.01.28**  
   지진 빈도 예측(시계열), 지진 대피소 현황, 위치 데이터 분석 후 해결 방안 강구  
 
 ## Non-coding Experience  
