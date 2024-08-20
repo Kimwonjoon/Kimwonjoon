@@ -19,9 +19,11 @@
 * **[미래와소프트웨어 빅데이터 활용 미래사회문제 해결 아이디어 해커톤](https://github.com/Kimwonjoon/korea_Earthquake_predict_prophet) (개발, 기획) 23.11.20 ~ 24.01.28**  
   지진 빈도 예측(시계열), 지진 대피소 현황, 위치 데이터 분석 후 해결 방안 강구  
 
+* **엔코아 PlayData 데이터 엔지니어링 부트캠프 32기 24.07.08 ~ 24.12.31**
+
 ## Non-coding Experience  
 * **[적십자] 제 4회 대학생 나눔봉사 해커톤 프로그램 (기획) 23.08.01 ~ 23.08.25**  
-  길거리 버려진 킥보드로 인한 통행 장애 방지를 위한 봉사활동, 관련 부스와 활동을 통한 시민 의식 교육 기획  
+  길거리 버려진 킥보드로 인한 통행 장애 방지를 위한 봉사활동, 관련 부스와 활동을 통한 시민 의식 교육 기획
 
 # 자격증 Certification  
 * **ADSP**
@@ -29,7 +31,7 @@
 * **빅데이터분석기사**
 * **정보처리기사 ~ ing**
 
-# 언어 및 개발환경 Skills
+# Skills
 
 ## Strong
 
@@ -47,7 +49,7 @@
 * Email : <kimpass189@gmail.com>
 * Blog : https://blog.naver.com/joony_0507
 * Velog : https://velog.io/@kimpass189/posts
-* Portfolio : https://www.notion.so/Portfolio-3bbd9d8277b44a8284c3ccfa7b192a83?pvs=4 -ing
+* Portfolio : https://www.notion.so/Portfolio-3bbd9d8277b44a8284c3ccfa7b192a83?pvs=4 modifying..
 
 ![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 <!---
