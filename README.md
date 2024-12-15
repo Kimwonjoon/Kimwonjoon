@@ -17,11 +17,11 @@
 | 2024.06 - 2024.06 | [부스트코스 코칭스터디] Let’s AI 2024 - 리드부스터 |
 
 # 프로젝트 Projects
-- [주차잇슈 - 주차장 정보 제공 및 행사, 음식점 주변 주차장 상세 정보 제공](https://github.com/DE32FinalTeam2/FinalRepo) **2024.11.14 - 2025.01.06**
-- [영화 박스오피스 API를 이용한 영화 조회 애플리케이션 with Java Spring](https://github.com/DE32FinalTeam2/JavaWithKafka) **2024.10.24 - 2024.10.27**
+- [주차잇슈 - 주차장 정보 제공 및 행사, 음식점 주변 주차장 상세 정보 제공](https://github.com/DE-32-5-Team5/parkingissue) **2024.11.14 - 2025.01.06**
+- [영화 박스오피스 API를 이용한 영화 조회 애플리케이션 with Java Spring](https://github.com/DE32-4-team5/movis/tree/main) **2024.10.24 - 2024.10.27**
 - [ML 및 DL model을 이용한 견종 예측 시스템 제작](https://github.com/pladata-encore/DE32-3rd_team4) **2024.10.04 - 2024.10.08**
-- [Kafka를 이용한 채팅 시스템 제작](https://github.com/pladata-encore/DE32-2rd_team6) **2024.08.26 - 2024.08.28**
-- [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/test-Esther) **2024.08.02 - 2024.08.06**
+- [Kafka를 이용한 채팅 시스템 제작](https://github.com/mammamia5/chat) **2024.08.26 - 2024.08.28**
+- [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/7-TRG/Airflow_dags) **2024.08.02 - 2024.08.06**
 
 # 공모전
 
