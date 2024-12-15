@@ -2,7 +2,26 @@
 수원대학교 데이터과학부 재학중인 김원준입니다.  
 더욱 많은걸 배워서 누군가에게 도움을 주고 이끌어 줄 수 있는 개발자가 목표이고,  
 **데이터 엔지니어링, 데이터 분석, ML, CV**에 관심이 있습니다.  
-한 곳에서 머무르지 않고 남들보다 느려도 한걸음씩 나아가는것이 중요하다는 가치관을 갖고 있습니다.  
+한 곳에서 머무르지 않고 남들보다 느려도 한걸음씩 나아가는것이 중요하다는 가치관을 갖고 있습니다.
+
+# Education
+### School
+| 입학년도 - 졸업예정년도 | 내용 |
+| :--: | :--: |
+| 2019.03 - 2025.08 | 수원대학교 데이터과학부 재학 |
+### Training
+| 시작 - 수료 | 내용 |
+| :--: | :--: |
+| 2024.07 - 2025.01 | playdata Data Engineering 부트캠프 32기 |
+| 2024.07 - 2024.08 | SK AI Data Academy 중급 |
+| 2024.06 - 2024.06 | [부스트코스 코칭스터디] Let’s AI 2024 - 리드부스터 |
+
+# 프로젝트 Projects
+- [주차잇슈 - 주차장 정보 제공 및 행사, 음식점 주변 주차장 상세 정보 제공](https://github.com/DE32FinalTeam2/FinalRepo) **2024.11.14 - 2025.01.06**
+- [영화 박스오피스 API를 이용한 영화 조회 애플리케이션 with Java Spring](https://github.com/DE32FinalTeam2/JavaWithKafka) **2024.10.24 - 2024.10.27**
+- [ML 및 DL model을 이용한 견종 예측 시스템 제작](https://github.com/pladata-encore/DE32-3rd_team4) **2024.10.04 - 2024.10.08**
+- [Kafka를 이용한 채팅 시스템 제작](https://github.com/pladata-encore/DE32-2rd_team6) **2024.08.26 - 2024.08.28**
+- [영화 박스오피스 API를 이용한 ETL 과정 제작](https://github.com/test-Esther) **2024.08.02 - 2024.08.06**
 
 # 공모전
 
@@ -22,11 +41,19 @@
 * **[적십자] 제 4회 대학생 나눔봉사 해커톤 프로그램 (기획) 23.08.01 ~ 23.08.25**  
   길거리 버려진 킥보드로 인한 통행 장애 방지를 위한 봉사활동, 관련 부스와 활동을 통한 시민 의식 교육 기획
 
-# 자격증 Certification  
-* **ADSP**
-* **SQLD**
-* **빅데이터분석기사**
-* **정보처리기사(필기)**
+# 자격증 Certification 
+| 자격증명 | 주최기관 | 합격기간 |
+| :--: | :-------: | :--: |
+| 빅데이터분석기사 | 한국데이터산업진흥원 | 2024.07 |
+| SQLD | 한국데이터산업진흥원 | 2023.12 |
+| ADSP | 한국데이터산업진흥원 | 2023.09 |
+| PCCP(Python)-프로그래머스코딩전문가자격 Lv.2 | (주)그렙 | 2024.11 |
+| 정보처리기사(필기) | 과학기술정보통신부 | 2024.06 |
+
+### Language
+| 언어 | 시험 내용 | 성적 |
+| :--: | :-------: | :--: |
+| 영어 | TOEIC | 790 |
 
 # Skills
 
@@ -68,8 +95,8 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/windows-0076A8?style=for-the-badge&logo=windows&logoColor=white">
 
 
-## Social
-* Email : <kimpass189@gmail.com>
+# Social
+* Email : <kimpass189@gmail.com> / <joony_0507@naver.com>
 * Blog : https://blog.naver.com/joony_0507
 * Velog : https://velog.io/@kimpass189/posts
 * Portfolio : https://purring-wing-b65.notion.site/Portfolio-15ca5ca06f9e80a19069f02427b4e330?pvs=4
