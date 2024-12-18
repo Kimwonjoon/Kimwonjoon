@@ -93,7 +93,7 @@
 * Email : <kimpass189@gmail.com> / <joony_0507@naver.com>
 * Blog : https://blog.naver.com/joony_0507
 * Velog : https://velog.io/@kimpass189/posts
-* Portfolio : https://purring-wing-b65.notion.site/Portfolio-15ca5ca06f9e80a19069f02427b4e330?pvs=4
+* Portfolio : https://purring-wing-b65.notion.site/Portfolio-15ea5ca06f9e80009e38dee3c196ac34?pvs=4
 
 ![Kimwonjoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimwonjoon&show_icons=true)
 <!---
