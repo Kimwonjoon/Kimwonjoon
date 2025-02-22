@@ -93,8 +93,7 @@
 
 
 # Social
-* Email : <kimpass189@gmail.com> / <joony_0507@naver.com>
-* Blog : https://blog.naver.com/joony_0507
+* Email : <kimpass189@gmail.com>
 * Velog : https://velog.io/@kimpass189/posts
 * Portfolio : https://purring-wing-b65.notion.site/DE-15ea5ca06f9e80009e38dee3c196ac34
 
